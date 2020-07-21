@@ -2,8 +2,8 @@
   <id>20a846de-1e3d-491d-a036-903d22972751</id>
   <nextMetaDataId>2</nextMetaDataId>
   <name>Channel 21</name>
-  <description>Pradeep Shrivastava</description>
-  <revision>4</revision>
+  <description></description>
+  <revision>0</revision>
   <sourceConnector version="3.9.0">
     <metaDataId>0</metaDataId>
     <name>sourceConnector</name>
@@ -367,7 +367,7 @@ return;</undeployScript>
     <metadata>
       <enabled>true</enabled>
       <lastModified>
-        <time>1595365738840</time>
+        <time>1595365886244</time>
         <timezone>Asia/Calcutta</timezone>
       </lastModified>
       <pruningSettings>
