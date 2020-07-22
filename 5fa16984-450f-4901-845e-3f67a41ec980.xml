@@ -1,9 +1,9 @@
 <channel version="3.9.0">
   <id>5fa16984-450f-4901-845e-3f67a41ec980</id>
   <nextMetaDataId>2</nextMetaDataId>
-  <name>HL7 V2-8</name>
+  <name>HL7 FHIR</name>
   <description></description>
-  <revision>0</revision>
+  <revision>1</revision>
   <sourceConnector version="3.9.0">
     <metaDataId>0</metaDataId>
     <name>sourceConnector</name>
@@ -367,7 +367,7 @@ return;</undeployScript>
     <metadata>
       <enabled>true</enabled>
       <lastModified>
-        <time>1595446254073</time>
+        <time>1595449050097</time>
         <timezone>Asia/Calcutta</timezone>
       </lastModified>
       <pruningSettings>
