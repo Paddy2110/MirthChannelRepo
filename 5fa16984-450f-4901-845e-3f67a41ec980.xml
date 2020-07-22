@@ -2,8 +2,8 @@
   <id>5fa16984-450f-4901-845e-3f67a41ec980</id>
   <nextMetaDataId>2</nextMetaDataId>
   <name>HL7 V2-8</name>
-  <description></description>
-  <revision>0</revision>
+  <description>7/23/20 Pradeep S	Channel Name Changed</description>
+  <revision>3</revision>
   <sourceConnector version="3.9.0">
     <metaDataId>0</metaDataId>
     <name>sourceConnector</name>
@@ -367,7 +367,7 @@ return;</undeployScript>
     <metadata>
       <enabled>true</enabled>
       <lastModified>
-        <time>1595449092309</time>
+        <time>1595449180140</time>
         <timezone>Asia/Calcutta</timezone>
       </lastModified>
       <pruningSettings>
