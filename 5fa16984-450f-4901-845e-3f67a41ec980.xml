@@ -3,7 +3,7 @@
   <nextMetaDataId>2</nextMetaDataId>
   <name>HL7 V2-8</name>
   <description>7/23/20 Pradeep S	Channel Name Changed</description>
-  <revision>3</revision>
+  <revision>4</revision>
   <sourceConnector version="3.9.0">
     <metaDataId>0</metaDataId>
     <name>sourceConnector</name>
@@ -333,7 +333,7 @@ return;</deployScript>
 return;</undeployScript>
   <properties version="3.9.0">
     <clearGlobalChannelMap>true</clearGlobalChannelMap>
-    <messageStorageMode>DEVELOPMENT</messageStorageMode>
+    <messageStorageMode>PRODUCTION</messageStorageMode>
     <encryptData>false</encryptData>
     <removeContentOnCompletion>false</removeContentOnCompletion>
     <removeOnlyFilteredOnCompletion>false</removeOnlyFilteredOnCompletion>
@@ -367,7 +367,7 @@ return;</undeployScript>
     <metadata>
       <enabled>true</enabled>
       <lastModified>
-        <time>1595449180140</time>
+        <time>1595449466249</time>
         <timezone>Asia/Calcutta</timezone>
       </lastModified>
       <pruningSettings>
